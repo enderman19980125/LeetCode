@@ -1,0 +1,7 @@
+# LeetCode
+
+Unfinished: P0004, P0005
+
+Commit Logs:
+
+2020-08-17: P0001, P0002, P0003, P0004, P0005, P0006, P0007, P0008, P0009
