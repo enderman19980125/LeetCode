@@ -6,7 +6,6 @@ Commit Logs:
 | Date | Problem | Language | Submit | Annotation |
 | :---: | :---: | :---: | :---: | :---: |
 | 2020-08-17 | P0001 | Python3 | 1 | - |
-|            | P0001 | Python3 | 1 | - |
 |            | P0002 | Python3 | 2 | - |
 |            | P0003 | Python3 | 3 | - |
 |            | P0004 | Python3 | 1 | (Unfinished) |
@@ -43,3 +42,7 @@ Commit Logs:
 |            | P0035 | Python3 | 1 | - |
 |            | P0036 | Python3 | 1 | - |
 |            | P0037 | Python3 | 1 | - |
+| 2020-08-25 | P0038 | Python3 | 1 | - |
+|            | P0039 | Python3 | 1 | - |
+|            | P0040 | Python3 | 1 | - |
+|            | P0041 | Python3 | 2 | - |
