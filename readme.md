@@ -46,3 +46,5 @@ Commit Logs:
 |            | P0039 | Python3 | 1 | - |
 |            | P0040 | Python3 | 1 | - |
 |            | P0041 | Python3 | 2 | - |
+| 2020-08-26 | P0042 | Python3 | 4 | - |
+|            | P0043 | Python3 | 1 | - |
