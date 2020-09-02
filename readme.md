@@ -79,9 +79,12 @@ Commit Logs:
 |            | P0072 | Python3 | 1 | - |
 |            | P0073 | Python3 | 1 | - |
 |            | P0074 | Python3 | 3 | - |
-| 2020-00-01 | P0075 | Python3 | 1 | - |
+| 2020-09-01 | P0075 | Python3 | 1 | - |
 |            | P0076 | Python3 | 1 | - |
 |            | P0077 | Python3 | 1 | - |
 |            | P0078 | Python3 | 1 | - |
 |            | P0079 | Python3 | 1 | - |
 |            | P0080 | Python3 | 1 | - |
+| 2020-09-02 | P0081 | Python3 | 2 | - |
+|            | P0082 | Python3 | 1 | - |
+|            | P0083 | Python3 | 1 | - |
