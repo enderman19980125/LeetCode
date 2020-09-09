@@ -89,3 +89,7 @@ Commit Logs:
 |            | P0082 | Python3 | 1 | - |
 |            | P0083 | Python3 | 1 | - |
 | 2020-09-07 | P0084 | Python3 | 4 | (Unfinished) |
+| 2020-09-08 | P0085 | Python3 | 1 | - |
+|            | P0086 | Python3 | 1 | - |
+|            | P0087 | Python3 | 1 | - |
+|            | P0088 | Python3 | 1 | - |
