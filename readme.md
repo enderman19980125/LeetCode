@@ -99,3 +99,10 @@ Commit Logs:
 |            | P0092 | Python3 | 1 | - |
 |            | P0093 | Python3 | 1 | - |
 |            | P0094 | Python3 | 1 | - |
+| 2020-09-11 | P0095 | Python3 | 4 | - |
+|            | P0096 | Python3 | 1 | - |
+|            | P0097 | Python3 | 3 | (Unfinished) |
+|            | P0098 | Python3 | 4 | - |
+|            | P0099 | Python3 | 1 | - |
+|            | P0100 | Python3 | 1 | - |
+|            | P0100 | C++     |  | - |
