@@ -306,10 +306,10 @@
 | P0302 |            | Python3 | - | - |
 | P0303 |            | Python3 | 1 | - |
 | P0304 |            | Python3 | 1 | - |
-| P0305 |            | Python3 |   | - |
-| P0306 |            | Python3 |   | - |
-| P0307 |            | Python3 |   | - |
-| P0308 |            | Python3 |   | - |
+| P0305 | 2021-06-26 | Python3 | - | - |
+| P0306 |            | Python3 | 1 | - |
+| P0307 |            | Python3 | 1 | - |
+| P0308 |            | Python3 | - | - |
 | P0309 |            | Python3 |   | - |
 | P0310 |            | Python3 |   | - |
 | P0311 |            | Python3 |   | - |
