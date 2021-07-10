@@ -311,8 +311,8 @@
 | P0307 |            | Python3 | 1 | - |
 | P0308 |            | Python3 | - | - |
 | P0309 | 2021-07-09 | Python3 | 3 | S |
-| P0310 |            | Python3 |   | - |
-| P0311 |            | Python3 |   | - |
+| P0310 | 2021-07-10 | Python3 | 1 | - |
+| P0311 |            | Python3 | - | - |
 | P0312 |            | Python3 |   | - |
 | P0313 |            | Python3 |   | - |
 | P0314 |            | Python3 |   | - |
